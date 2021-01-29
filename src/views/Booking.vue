@@ -56,7 +56,7 @@ import 'jquery-datetimepicker'
 
 const $ = require('jquery');
 const axios = require('axios');
-const apiURL = 'http://127.0.0.1:8004/api/' // Api URL Hard Coded: Change later
+const apiURL = 'https://lhome.herokuapp.com/api/' // Api URL Hard Coded: Change later
 
 
 export default {
